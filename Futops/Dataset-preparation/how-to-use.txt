@@ -1,0 +1,9 @@
+Manish Singh Rajput
+
+First you need to download the videos from youtube.
+youtube-dl -a path.txt  (path of the videos urls)
+
+After that you need to
+
+comming soon 
+_____________________________________________________ 
