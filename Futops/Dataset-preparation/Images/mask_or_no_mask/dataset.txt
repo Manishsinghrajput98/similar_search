@@ -1,2 +1,0 @@
-https://mask-new-manish.s3.ap-south-1.amazonaws.com/New_Dataset.zip
-https://mask-new-manish.s3.ap-south-1.amazonaws.com/more.zip
